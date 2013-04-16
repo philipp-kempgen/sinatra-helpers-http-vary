@@ -7,7 +7,7 @@
 
 spec = Gem::Specification.new { |s|
 	s.name         = 'sinatra-helpers-http-vary'
-	s.version      = '0.0.1'
+	s.version      = '0.1.0'
 	s.summary      = "Sinatra helpers to set the HTTP Vary header."
 	s.description  = "Helpers for setting the HTTP Vary header in Sinatra."
 	s.author       = "Philipp Kempgen"
